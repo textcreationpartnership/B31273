@@ -1,0 +1,931 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An enlargement of a former catechisme which contained in briefe the grounds and principles of Christian religion that shewed what we ought to beleeve, this upon what ground we ought so to beleeve, both which are necesseary in the faith of every Chirstian / gathered at the first and since enlarged by D.V. ...</title>
+            <author>D. V.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B31273</idno>
+            <idno type="STC">Wing V2</idno>
+            <idno type="EEBO-CITATION">09089709</idno>
+            <idno type="OCLC">ocm 09089709</idno>
+            <idno type="VID">204367</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B31273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204367)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1296:77)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An enlargement of a former catechisme which contained in briefe the grounds and principles of Christian religion that shewed what we ought to beleeve, this upon what ground we ought so to beleeve, both which are necesseary in the faith of every Chirstian / gathered at the first and since enlarged by D.V. ...</title>
+                  <author>D. V.</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. and R. Cotes for S. Enderby,</publisher>
+                  <pubPlace>London</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204367:1"/>
+            <pb facs="tcp:204367:2"/>
+            <pb facs="tcp:204367:2" rendition="simple:additions"/>
+            <p>AN ENLARGEMENT OF A FORMER CATECHISME, WHICH CONTAINED IN BRIEFE the grounds and principles of Chriſtian Religion.</p>
+            <p>That ſhewed what we ought to beleeve, this upon what ground we ought ſo to beleeve, both which are neceſſeary in the faith of every Chriſtian.</p>
+            <p>Gathered at the firſt, and ſince enlar<g ref="char:EOLhyphen"/>ged by <hi>D. V.</hi> for the benefit of ſuch as are but Novices in the Schoole of Chriſt.</p>
+            <q>
+               <bibl>
+                  <hi>2 Pet. 3.18.</hi>
+               </bibl> Grow in grace, and in the know<g ref="char:EOLhyphen"/>ledge of our Lord and Saviour Jeſus Chriſt.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T.</hi> and <hi>R. Cotes,</hi> for <hi>S. Enderby,</hi> and are to be ſold at his ſhop in Popes head Alley, at the ſigne of the Starre. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:204367:3"/>
+            <pb facs="tcp:204367:3"/>
+            <head>The Grounds and Prin<g ref="char:EOLhyphen"/>ciples of <hi>Chriſtian</hi> Religion.</head>
+            <div n="1" type="part">
+               <head>The firſt Part.</head>
+               <p>
+                  <hi>Queſtion. <hi>
+                        <seg rend="decorInit">W</seg>Ho made you?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> God.</p>
+               <p>
+                  <hi>Q, <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the firſt Chap<g ref="char:EOLhyphen"/>ter of Geneſis, the ſeven and twentieth verſe, where it is ſaid, <hi>God made man in his owne Jmage:</hi> and out of the hun<g ref="char:EOLhyphen"/>dreth Pſalm at the <hi>3</hi> ver. <hi>Know ye that the Lord he is God, it is he that hath made us.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>How many Gods are there?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> One.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the ſecond Chapter of Saint <hi>Iames,</hi> the ninetéenth verſe, <hi>Thou beleeveſt that there is one God, thou doeſt well.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>How many perſons in the God<g ref="char:EOLhyphen"/>head?</hi>
+                  </hi>
+               </p>
+               <pb n="4" facs="tcp:204367:4"/>
+               <p>
+                  <hi>A.</hi> Thrée.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the firſt Epiſtle of S. <hi>Iohn,</hi> the fift Chapter, the ſeventh verſe, <hi>There are three that beare record in heaven, and theſe three are one.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>Which be thoſe three perſons?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Father, the Word, and the Holy Ghoſt.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the former words of S. <hi>John:</hi> where he ſaith, <hi>There are three that beare record in Heaven, the Father, the Word, and the Holy Ghoſt, and theſe three are one.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>Wherefore did God make you?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To ſerve him.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the hundreth Pſalme, where Gods making us, and our ſerving of God are both ioyned together, giving us to underſtand thus much, that there<g ref="char:EOLhyphen"/>fore we ſhould ſerve God, becauſe hée made us, and therefore he made us, that we ſhould ſerve him. The words are theſe: <hi>Serve the Lord with gladneſſe, come be<g ref="char:EOLhyphen"/>fore his preſence with ſinging: Know ye that the Lord he is God, it is he that hath made us.</hi> And to the ſame purpoſe ſpeakes <hi>Salomon</hi>
+                  <pb n="5" facs="tcp:204367:4"/> in the booke of Eccleſiaſtes, the laſt chap<g ref="char:EOLunhyphen"/>ter, the laſt verſe ſave one: <hi>Let us heare the concluſion of the whole matter: Feare God, and keepe his Commandements, for this is the whole duty of man.</hi>
+               </p>
+               <p>
+                  <hi>Q. How will God be ſerved?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> According to his will revealed in his Word.</p>
+               <p>
+                  <hi>Q. How is that proved?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the nine and twentieth of Deuteronomie, the laſt words: <hi>The ſecret things belong to the Lord our God: but the things revealed belong to us and our children for ever, that we may doe them.</hi> And out of the ſixt Chapter of <hi>Micha</hi> at the eight verſe, where the Prophet ſaith plainely: <hi>That God hath ſhewed us what is good, and what he requires of us.</hi>
+               </p>
+               <p>
+                  <hi>Q. Where, in what part of Gods word ſpecially is this will of God revealed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In the ten Commandements.</p>
+               <p>
+                  <hi>Q. How is that proved?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe the ten Commandements are divers times in Scripture called the Teſtimonies of the Lord, as in the ſixth of Deuteronomie, the ſeventéenth verſe: <hi>Ye ſhall diligently keepe the Com<g ref="char:EOLhyphen"/>mandements of the Lord your God, and his te<g ref="char:EOLhyphen"/>ſtimonies, and his ſtatutes.</hi> Where the ſame
+<pb n="6" facs="tcp:204367:5"/> things that he cals Commandements, he cals teſtimonies alſo becauſe God doth therein teſtifie and declare unto us what he would have us to doe.</p>
+               <p>
+                  <hi>Q. <hi>Rehearſe the ten Commandements</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God ſpake theſe words and ſaid, &amp;c.</p>
+               <p>
+                  <hi>Q. <hi>What doe you learne out of the foure firſt Commandements?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> My Duty towards God.</p>
+               <p>
+                  <hi>Q. <hi>What doe you learne out of the ſix laſt Commandements?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> My duty towards my Neighbour, that is, how to carry my ſelfe both to<g ref="char:EOLhyphen"/>wards my ſelfe, and alſo towards o<g ref="char:EOLhyphen"/>thers.</p>
+               <p>
+                  <hi>Q. <hi>How is it proved that this is the ſubſtance of thoſe things that are required of us in the ten Commandements?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By the words of our Saviour in the two and twentieth Chapter of Saint <hi>Matthew,</hi> at the ſeven and thirtieth verſe and ſo forward: <hi>Thou ſhalt love the Lord thy God with all thy heart, and with all thy ſoule, and with all thy minde: This is the firſt and great Commandement, and the ſecond is like unto it, thou ſhalt love thy Neighbour as thy ſelfe: On theſe two Commandements hang all the Law and the Prophets.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>Can you keepe all theſe Comman<g ref="char:EOLhyphen"/>dements?</hi>
+                  </hi>
+               </p>
+               <pb n="7" facs="tcp:204367:5"/>
+               <p>
+                  <hi>A.</hi> No.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the twentieth Chapter of the Proverbes, at the ninth verſe: <hi>Who can ſay I have made my heart cleane, I am pure from my ſinne?</hi> And out of the third Chap<g ref="char:EOLhyphen"/>ter of Saint <hi>Iames,</hi> and the ſecond verſ. <hi>In many things we offend all.</hi> Beſides this is ſufficiently proved to every man, by his owne dayly experience, if he doe obſerve and take héed to his wayes.</p>
+               <p>
+                  <hi>Q. <hi>Did God make you thus?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the ſeventh of Eccleſiaſtes, and the laſt verſe, <hi>God made man righteous.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>How comes it to paſſe then that you cannot keepe the Commandements?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By the fall of <hi>Adam</hi> and <hi>Eve.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the fift Chapter of the Epi<g ref="char:EOLhyphen"/>ſtle to the <hi>Romans,</hi> the twelfth verſe, where the Apoſtle ſaith thus, <hi>By one man ſin entred into the world.</hi> That one man, is <hi>Adam,</hi> who was tempted by <hi>Eve,</hi> and the world is all mankind that came of them, ſo that the Apoſtles meaning is, that by that meanes wée are all become ſinfull,
+<pb n="8" facs="tcp:204367:6"/> and therefore breake the Commande<g ref="char:EOLhyphen"/>ments of God.</p>
+               <p>
+                  <hi>Q. Who were <hi>Adam</hi> and <hi>Eve?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The firſt man and woman that God made, and having made them, hée ioyned them together in marriage.</p>
+               <p>
+                  <hi>Q. How is that proved?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the ſecond Chapter of Ge<g ref="char:EOLhyphen"/>neſis: for concerning <hi>Adam,</hi> it is ſayd in the ſeventh verſe of that Chapter: <hi>The Lord God formed Man of the duſt of the ground, and breathed into his noſtrils the breath of life, and man became a living ſoule.</hi> And concerning <hi>Eve,</hi> it is ſayd in the two and twentieth verſe of the ſame Chapter. <hi>The rib which the Lord God had taken from man, he made a woman;</hi> There is the making of them both, in the beginning when God created the world. Then concerning their ioyning together in marriage, it is ſayd in the two and twentieth verſe alſo, that God brought the woman to the man</p>
+               <p>
+                  <hi>Q. <hi>Wherein did they fall?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In eating the forbidden fruite.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the third Chapter of Gene<g ref="char:EOLhyphen"/>ſis and the ſeventéenth verſe, where God chargeth <hi>Adam,</hi> that he had hearkned to the voyce of his wife, in eating of the
+<pb n="9" facs="tcp:204367:6"/> trée, of which he commanded him that he ſhould not eate thereof. There it is ex<g ref="char:EOLhyphen"/>preſſly ſayd, that the man did eate of the forbidden fruite, but the womans eating thereof is underſtood.</p>
+               <p>
+                  <hi>Q. <hi>What is the forbidden fruite?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When God had made <hi>Adam</hi> and <hi>Eve,</hi> he placed them in the Garden which is commonly called Paradiſe, and gave them liberty to eate of every trée of the Garden excepting one.</p>
+               <p>
+                  <hi>Q. <hi>What is the forbidden fruite?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Firſt, that God placed <hi>Adam</hi> in Pa<g ref="char:EOLhyphen"/>radiſe, that is proved out of the ſecond Chapter of Geneſis, at the fiftéenth verſe; <hi>And the Lord God tooke the man, and put him into the garden of Eden, to dreſſe it, and to keepe it.</hi>
+               </p>
+               <p>Secondly, that God placed <hi>Eve</hi> in Pa<g ref="char:EOLhyphen"/>radiſe alſo, that is proved becauſe ſhée was <hi>Adams</hi> wife, and man and wife are to live together: and it is ſayd in the third Chapter of Geneſis and the eight verſe, that ſhe as well as <hi>Adam</hi> heard the voyce, of the Lord walking in the Garden.</p>
+               <p>Thirdly, that God gave them liberty to eate of every trée in the Garden ſave one, that is proved out of the ſecond of Geneſis, the ſixtéenth and ſeventéenth
+<pb n="10" facs="tcp:204367:7"/> verſes: <hi>And the Lord God commanded the man ſaying, Of every tree of the garden thou mayeſt freely eate, but of the tree of knowledge of good and evill thou ſhalt not eate thereof: for in the day that thou eatest thereof thou ſhalt ſurely dye.</hi> This being ſpoken to the man, concernes the woman alſo: for we may not thinke that the woman had any more li<g ref="char:EOLhyphen"/>berty for her eating than the man for his</p>
+               <p>
+                  <hi>Q. <hi>If God placed them in Paradiſe, and gave them libertie to eate of every tree of the garden excepting one, what of this?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They did eate of this trée, and that was their ſinne.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Firſt that they did eate of that trée, is plainely ſet downe in the third Chapter of <hi>Geneſis</hi> at the ſixt verſe. <hi>And when the woman ſaw that the tree was good for food, and that it was pleaſant to the eye, and a tree to be deſired to make one wiſe, ſhe tooke of the fruite thereof, and did eate and gave alſo unto her husband with her, and he did eate.</hi>
+               </p>
+               <p>Secondly, that this was their ſinne, that is plaine, becauſe it was contrary to the Commandement which God gave them.</p>
+               <p>
+                  <hi>Q. <hi>What is that to us if</hi> Adam <hi>and</hi> Eve <hi>ſinned?</hi>
+                  </hi>
+               </p>
+               <pb n="11" facs="tcp:204367:7"/>
+               <p>
+                  <hi>A.</hi> Yes, their ſinne is our ſinne, and their fall is our fall</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the fift Chapter of the E<g ref="char:EOLhyphen"/>piſtle to the <hi>Romans</hi> at the twelfth verſe: <hi>By one man ſinne entred into the world, and death by ſinne, and ſo death paſſed upon all men, for that all have ſinned.</hi> The Apoſtle ſaith that all have ſinned: now it can<g ref="char:EOLhyphen"/>not be truely ſayd of any ſinne that all young and old without exception ſinned, but onely of that ſinne which <hi>Adam</hi> and <hi>Eve</hi> committed in eating of the forbidden fruite.</p>
+               <p>
+                  <hi>Q. <hi>But doe we partake with</hi> Adam <hi>and</hi> Eve <hi>onely in this ſinne, and not in other?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> From this firſt ſinne, which they committed, procéedes naturall corrup<g ref="char:EOLhyphen"/>tion, both in them and us, which na<g ref="char:EOLhyphen"/>turall corruption, conſiſts not onely in the want of holineſſe and righteouſneſſe, which God beſtowed upon us in our firſt creation: but alſo in an inclination to all evill, and a backwardneſſe to every thing that is good, and this naturall corruption is the cauſe of all other ſinnes.</p>
+               <p>
+                  <hi>Q. <hi>How is this proved, that from that firſt ſinne proceedes naturall corruption, and from that, other particular ſinnes?</hi>
+                  </hi>
+               </p>
+               <pb n="12" facs="tcp:204367:8"/>
+               <p>
+                  <hi>A.</hi> Becauſe that the Apoſtle ſaith in the fift Chapter of the Epiſtle to the Ro<g ref="char:EOLhyphen"/>mans, the ninetéenth verſe, that <hi>By A<g ref="char:EOLhyphen"/>dams diſobedience we were made ſinners.</hi> We did not onely ſinne in <hi>Adam,</hi> but by that ſinne or diſobedience we are become ſinners or ſinfull.</p>
+               <p>
+                  <hi>Q. <hi>What danger followes upon this, that God gives us a Law to keepe, and we are ſo ſinfull that we cannot keepe it?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The curſe of God.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe it is ſayd in the ſeven and twentieth Chapter of Deuteronomie and the laſt verſe: <hi>Curſed be he that confirmeth not all the words of this Law to doe them.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>Doth this curſe of God concerne us onely ſo long as we live?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, but the curſe of God is upon us in death, and after death alſo.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe the Apoſtle ſaith in the ſixt Chapter of the Epiſtle to the Romans the laſt verſe, that the wages of ſinne is death, not onely temporall death, which is the parting of the ſoule and the bo<g ref="char:EOLhyphen"/>dy, but alſo eternall death which follow<g ref="char:EOLhyphen"/>eth after: and this is plaine, becauſe in the ſame place he ſpeakes of eternall life,
+<pb n="13" facs="tcp:204367:8"/> and brings it in as a contrary to death: <hi>The wages of ſinne is death, but the gift of God is eternall life.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part.</head>
+               <p>
+                  <hi>Q. <hi>Is there any meanes to eſcape this curſe?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes, by Ieſus Chriſt.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe in the Epiſtle to the Ga<g ref="char:EOLhyphen"/>lathians, the third Chapter, the thirtéenth verſe, the Apoſtle ſaith thus: <hi>Chriſt hath redeemed us from the curſe of the Law, being made a curſe for us.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>Who is Jeſus Chriſt?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He is the onely Sonne of God.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe in the third Chapter of S. <hi>Johns</hi> Goſpell at the ſixtéenth verſ, Ieſus Chriſt ſpeaks thus of himſelf: <hi>God ſo loved the world, that he gave his only begotten Son.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>Is Jeſus Chriſt onely God?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, he is both God and man.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe in the third of Saint <hi>Johns</hi> Goſpell, at the thirtéenth and fourtéenth verſes, and in many other places, Ieſus Chriſt cals himſelfe the Sonne of man.</p>
+               <p>
+                  <hi>Q. <hi>How did he being God become man?</hi>
+                  </hi>
+               </p>
+               <pb n="14" facs="tcp:204367:9"/>
+               <p>
+                  <hi>A.</hi> He tooke fleſh of the bleſſed Virgin <hi>Marie.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe <hi>Mary</hi> is called the mo<g ref="char:EOLhyphen"/>ther of Ieſus Chriſt, and the Angell ſayd of her, That ſhe ſhall bring forth a Son, and call his Name Ieſus, in the firſt of <hi>Matthew</hi> the eightéenth and the one and twentieth verſes.</p>
+               <p>
+                  <hi>Q. <hi>What hath Jeſus Chriſt done for us?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He dyed for our ſinnes, and fulfilled the whole Law.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Firſt, he dyed for our ſinnes, ſo ſaith the Apoſtle in the fourth Chapter of the Epiſtle to the Romans, and the laſt verſe, and becauſe his death had béene to little purpoſe, unleſſe he had riſen againe from the dead, therefore he joynes his re<g ref="char:EOLhyphen"/>ſurrection with his death: <hi>He was delivered for our offences, and was raiſed againe for our juſtification.</hi>
+               </p>
+               <p>Secondly, that he fulfilled the whole Law, that may be proved by the compa<g ref="char:EOLhyphen"/>riſon which the <hi>Apoſtle</hi> makes betwéene <hi>Adam</hi> and <hi>Chriſt,</hi> in the fift chapter of that Epiſtle to the Romans, and the nine<g ref="char:EOLhyphen"/>téenth verſe: <hi>As by one mans diſobedience many were made ſinners, ſo by the obedience of
+<pb n="15" facs="tcp:204367:9"/> one ſhall many be made righteous.</hi> Where by the diſobedience of <hi>Adam,</hi> we muſt un<g ref="char:EOLhyphen"/>derſtand that which hee did contrary to the commandement, and therefore by the obedience of <hi>Chriſt,</hi> we muſt underſtand that which he did according to the Com<g ref="char:EOLhyphen"/>mandement.</p>
+               <p>
+                  <hi>Q. <hi>How do you lay hold upon Chriſt?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By a lively faith.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe in the Epiſtle to the Ephe<g ref="char:EOLhyphen"/>ſians, the third chapter and the ſeventeenth verſe, Chriſt is ſayd to dwell in our hearts by faith.</p>
+               <p>
+                  <hi>Q. <hi>Rehearſe the articles of your faith.</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I beléeve in God the Father Al<g ref="char:EOLhyphen"/>mightie, &amp;c.</p>
+               <p>
+                  <hi>Q. <hi>What is faith?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A perſwaſion of my heart, that what Ieſus Chriſt hath done or ſuffered for the Salvation of mankind, he did it for me as well as for any other.</p>
+               <p>
+                  <hi>Q. <hi>How is it proved that the nature of faith conſiſts herein?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The ground of this is in thoſe words of the Apoſtle in the Epiſtle to the Galathians, the ſecond Chapter, the twentieth verſe, where he ſpeakes thus: <hi>I live by faith in thee Sonne of God, who loved
+<pb n="16" facs="tcp:204367:10"/> me, and gave himſelfe for me.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>What is the ſpeciall fruite of faith?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Repentance.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the very nature of repen<g ref="char:EOLhyphen"/>tance.</p>
+               <p>
+                  <hi>Q. <hi>Why, what is repentance?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is a turning from our ſinnes, and a returning to God, whom by our ſins we had forſaken.</p>
+               <p>
+                  <hi>Q <hi>How doe you prove that this is the nature of repentance?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the Propheſie of <hi>Iſaiah,</hi> the five and fiftieth chapter the ſeventh verſe, <hi>Let the wicked forſake his w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, and the un<g ref="char:EOLhyphen"/>righteous man his thoughts, and let him re<g ref="char:EOLhyphen"/>turne unto the Lord.</hi> In theſe words the Prophet preacheth the doctrine of repen<g ref="char:EOLhyphen"/>tance, while he calls upon them to turne from their wicked wayes, and to turne to the Lord. And ſo in the former Epiſtle to the <hi>Theſſalonians</hi> the firſt chapter &amp; ninth verſ, the Apoſtle ſets out their repentance in theſe words, that <hi>They turned to God from idols, to ſerve the true and living God.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>But if this be the nature of repen<g ref="char:EOLhyphen"/>tance, doth it follow thence that it is a fruite of faith?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes, for that that moves a man to
+<pb n="17" facs="tcp:204367:10"/> repent is this, that hee beléeves he ſhall finde mercie, and obtaine pardon upon his repentance. And this is plain by the man<g ref="char:EOLhyphen"/>ner of the Prophets enforcing this duty of repentance: for in the five and fiftieth Chapter of <hi>Iſaiah,</hi> and the ſeventh verſe, When the Prophet had exhorted them to forſake their wicked wayes, and to turne to the Lord (wherein conſiſts the nature of repentance) preſently he brings in this reaſon, that God will have mercie upon them, and abundantly pardon them. Now the reaſon that doth move a man to pra<g ref="char:EOLhyphen"/>ctiſe any duty, muſt firſt be apprehended and beleeved, before he practiſe the duty it ſelfe: and therefore a man muſt firſt be<g ref="char:EOLhyphen"/>leeve, and have a perſwaſion of Gods mercie, before he doth or can repent.</p>
+               <p>
+                  <hi>Q. <hi>What meanes be there to get faith, and to increaſe it when we have it?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The meanes are theſe three: firſt, the hearing and reading of the word of God,</p>
+               <p>
+                  <hi>Q. <hi>What meane you by the word of God?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The canonicall books of the old and new Teſtament.</p>
+               <p>
+                  <hi>Q. <hi>How doe you prove that this is a meanes to beget faith?</hi>
+                  </hi>
+               </p>
+               <pb n="18" facs="tcp:204367:11"/>
+               <p>
+                  <hi>A.</hi> Becauſe the Apoſtle ſaith in the tenth Chapter of the Epiſtle to the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> and the ſeventéenth verſe, that <hi>Faith commeth by hearing, and hearing by the word of God.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>What is the ſecond meanes?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Prayer is the ſecond meanes.</p>
+               <p>
+                  <hi>Q. <hi>How doe you prove that?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe it is the meanes that our Saviour Chriſt hath taught us, for the ob<g ref="char:EOLhyphen"/>taining of any good thing at Gods hand: for theſe be the words of our Saviour in the ſeventh Chapter of <hi>Matthew</hi> at the ſeventh verſe: <hi>Aske and it ſhall be given you,</hi> and againe in the eleventh verſe of that Chapter: <hi>If ye that are evill can give to your children good gifts, how much more ſhall your Father which is in heaven give good things to them that aske him?</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>What is the beſt forme of prayer?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A. <hi>Our Father which art in heaven, &amp;c.</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>Q. To whom do you make that prayer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To God.</p>
+               <p>
+                  <hi>Q. How doe you prove that?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe there is none whom wee can call, <hi>Our Father which art in heaven,</hi> but onely God.</p>
+               <p>
+                  <hi>Q. How many petitions are there in this prayer?</hi>
+               </p>
+               <pb n="19" facs="tcp:204367:11"/>
+               <p>
+                  <hi>A.</hi> Six.</p>
+               <p>
+                  <hi>Q. <hi>Which be the firſt three?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A. <hi>Hallowed be thy Name,</hi>
+                  </hi> that is one, <hi>thy Kingdome come,</hi> that is two, <hi>thy will be done in earth as it is in heaven,</hi> there are the thrée firſt petitions.</p>
+               <p>
+                  <hi>Q. <hi>What doe you pray for in theſe pe<g ref="char:EOLhyphen"/>titions?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Such things as concerne the glory of God.</p>
+               <p>
+                  <hi>Q. <hi>How doe you prove that?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the forme of the words, <hi>thy name, thy kingdome, thy will, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>Which be the other three petitions?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A. <hi>Give us this day our daily bread,</hi>
+                  </hi> that is one, <hi>and forgive us our treſpaſſes, as we forgive them that treſpaſſe againſt us,</hi> that is two, <hi>and lead us not into temptation, but de<g ref="char:EOLhyphen"/>liver us from evill,</hi> there are the thrée laſt petitions.</p>
+               <p>
+                  <hi>Q. <hi>What do you pray for in theſe three petitions?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Such things as concerne ourſelves and our neighbours, our good and theirs, both for body and ſoule.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Firſt, the words be plaine enough, wée doe not ſay, give me, and forgive me, and leade not me, &amp;c. but <hi>give us,</hi> and <hi>for<g ref="char:EOLhyphen"/>give
+<pb n="20" facs="tcp:204367:12"/> us,</hi> and <hi>lead not us, &amp;c.</hi> Therefore we pray for our brethren as well as for our ſelves.</p>
+               <p>Secondly: And as wee pray for bread which concernes the body ſo alſo for the forgiveneſſe of our ſinnes, and ſtrength againſt temptation; which concernes the ſoule.</p>
+               <p>
+                  <hi>Q. <hi>Why doe you make theſe petitions to God, rather than to any other?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe it belongs to him to hea<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> our prayers, and grant our requeſts, in that he is our King; he is able to doe it, in regard of his power: and that hee ſhould doe this for us, it makes for his glory.</p>
+               <p>
+                  <hi>Q. <hi>How is it proved that you make theſe petitions to God, rather than to any other upon this ground?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the laſt words, where this reaſon is given, why we make the for<g ref="char:EOLhyphen"/>mer petitions to God: <hi>For thine is the King<g ref="char:EOLhyphen"/>dome, the power, and the glory for ever.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>But doth not our Saviour teach us to give thankes to God for good things re<g ref="char:EOLhyphen"/>ceived, as well as to pray for what wee would have?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes, and this he doth in theſe laſt words alſo: for they are not onely a rea<g ref="char:EOLhyphen"/>ſon of the former petitions, but doe con<g ref="char:EOLhyphen"/>taine
+<pb n="21" facs="tcp:204367:12"/> in them a thankſgiving alſo.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Firſt, becauſe that thankſgiving is a part of prayer, and our Saviour would not leave out ſuch a neceſſary part of prayer, when he did purpoſely teach them to pray.</p>
+               <p>Secondly, becauſe we reade in the for<g ref="char:EOLhyphen"/>mer booke of Chronicles the nine and twentieth Chapter, at the eleventh verſe, that <hi>David</hi> gives thankes to God in the like words. <hi>Bleſſed be thou O Lord God of Iſrael our Father for ever and ever: Thine O Lord is greatneſſe, and power, and glory, and victory, and praiſe: For all that is in heaven and in earth are thine, thine is the Kingdome O Lord.</hi> Here in <hi>Davids</hi> thankſgiving the Kingdome, and power, and glory of God are mentioned.</p>
+               <p>
+                  <hi>Q. <hi>What is the meaning of the laſt word,</hi> Amen.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is the concluſion of the prayer, and it ſignifieth our faith and our deſire touching that we have prayed for, as if we ſhould ſay, what I have prayed for, I deſire it may come to paſſe, I beléeve it ſhall come to paſſe, and thus I ſet up my reſt, and ſhut up my prayers.</p>
+               <p>
+                  <hi>Q. <hi>How doe you prove that this is the
+<pb n="22" facs="tcp:204367:13"/> meaning of</hi> Amen <hi>in this place?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe ſo it is to be underſtood ge<g ref="char:EOLhyphen"/>nerally in the end of our prayers, and ſo it is uſed in the two and twentieth Chapter of the <hi>Revelation</hi> at the laſt verſe ſave one, where when our Saviour Chriſt had promiſed to come quickly to Iudgement, S. <hi>Iohn</hi> anſwers, <hi>Amen,</hi> and then hée ex<g ref="char:EOLhyphen"/>pounds this by two things, <hi>Even ſo,</hi> and then <hi>Come Lord Ieſus,</hi> the former whereof, ſhewes his beliefe, the later his deſire.</p>
+               <p>
+                  <hi>Q. <hi>What is the third meanes that may be uſed for the obtaining of faith?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The third meanes is the uſe of the Sacraments.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe for this end they were or<g ref="char:EOLhyphen"/>dained of God, as may appeare, if we conſider the nature of them.</p>
+               <p>
+                  <hi>Q. <hi>Why, what is the nature of a Sacra<g ref="char:EOLhyphen"/>ment?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is a ſigne and a ſeale of that cove<g ref="char:EOLhyphen"/>nant of grace which God hath made with his Church.</p>
+               <p>
+                  <hi>Q. <hi>How doe you prove that this is the nature of a Sacrament?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the ſeventeenth of <hi>Geneſis,</hi> where God made a Covenant with <hi>A<g ref="char:EOLhyphen"/>braham</hi> and his ſeed, and gives them cir<g ref="char:EOLhyphen"/>cumciſion
+<pb n="23" facs="tcp:204367:13"/> to be a ſigne of this Covenant, and a ſeale to confirme the ſame: and hereunto agree the words of the Apoſtle, in the fourth Chapter of the Epiſtle to the <hi>Romans,</hi> the eleventh verſe, where he ſaith, that <hi>Abraham received the ſigne of circumciſion, the ſeale of the righteouſneſſe of faith.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>What is the Covenant of grace which God hath made with his Church?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> This is the tenor of the Covenant, that <hi>Whoſoever beleeveth in Chriſt Ieſus, ſhall not periſh, but have everlaſting life.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>How doe you prove that this is the ſubſtance of the Covenant of grace?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the tenth Chapter of the E<g ref="char:EOLhyphen"/>piſtle to the <hi>Romans,</hi> where he compares the Covenant of grace with the Covenant of workes, and ſhewes wherein the Co<g ref="char:EOLhyphen"/>venant of grace doth conſiſt, at the ninth verſe: <hi>If thou ſhalt confeſſe with thy mouth the Lord Ieſus, and ſhalt beleeve in thine heart, that God raiſed him up from the dead, thou ſhalt be ſaved.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>How many Sacraments are there?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two, and no more.</p>
+               <p>
+                  <hi>Q. <hi>How doe you prove that?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe to theſe two onely doth a<g ref="char:EOLhyphen"/>gree that which hath béen ſaid concerning
+<pb n="24" facs="tcp:204367:14"/> the nature of a Sacrament.</p>
+               <p>
+                  <hi>Q. <hi>Which be thoſe two Sacraments?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Baptiſme and the Lords Supper.</p>
+               <p>
+                  <hi>Q. <hi>What is ſignified and ſealed unto us in Baptiſme?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That as the water waſheth away the ſoyle of the body, ſo doth the bloud of Ieſus Chriſt waſh away our ſinnes.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the two and twentieth chap<g ref="char:EOLhyphen"/>ter of the Acts of the Apoſtles, where <hi>A<g ref="char:EOLhyphen"/>nanias</hi> ſpeaks thus to <hi>Paul</hi> at the ſixtéenth verſe: <hi>Ariſe and be baptized and waſh away thy ſinnes:</hi> where theſe two being joyned together, baptizing and waſhing away of ſinne, the one ſhewes what is meant by the other, that by the outward baptizing and waſhing with water, is ſignified the waſhing away of our ſinnes.</p>
+               <p>
+                  <hi>Q. <hi>What is ſignified and ſealed unto us in the Lords Supper?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That as the bread and wine doe nouriſh our bodies, ſo doth the body and bloud of Ieſus Chriſt nouriſh our ſoules and bodies to everlaſting life.</p>
+               <p>
+                  <hi>Q. <hi>How do you prove that this is ſigni<g ref="char:EOLhyphen"/>fied &amp; ſealed unto us in the Lords ſupper?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe when our Saviour firſt ordained this Sacrament, in the ſix and
+<pb n="25" facs="tcp:204367:14"/> twentieth Chapter of S. <hi>Matthew,</hi> at the ſix and twentieth and eight and twentieth verſes, he utters theſe words, when he giveth the bread and the wine, ſaying: <hi>This is my body,</hi> and againe, <hi>this is my bloud,</hi> thereby ſhewing, that every worthy re<g ref="char:EOLhyphen"/>ceiver doth not only receive the bread and wine, but the bod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and bloud of Chiſt al<g ref="char:EOLhyphen"/>ſo, and that the re<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iving of the bread and wine, doth ſeale unto them the receiving of the other.</p>
+            </div>
+            <div n="3" type="part">
+               <head>The third part.</head>
+               <p>
+                  <hi>Q. <hi>Who are they that ſhall have ever<g ref="char:EOLhyphen"/>laſting life?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The godly.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the five and twentieth chap<g ref="char:EOLhyphen"/>ter of S. <hi>Matthew,</hi> the laſt verſe, where it is ſaid, <hi>the righteous ſhall goe into life eternall.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>When ſhall they have this life eter<g ref="char:EOLhyphen"/>nall?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> At the end of the world,</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the former Chapter, the five and twentieth of Saint <hi>Matthew,</hi> for that that is there ſpoken of the righ<g ref="char:EOLhyphen"/>teous, and their going into eternall
+<pb n="26" facs="tcp:204367:15"/> life, is thus to be underſtood. For in the foure and twentieth Chapter at the third verſe, the Diſciples of our Saviour asked him, what ſigne there ſhould be at the end of the world: and hereupon our Saviour ſpeaks of the end of the world, and what ſhall fall out then, both in the foure and twentieth and five and twentieth chapter, and amongſt the reſt this is one thing, <hi>That the righteous ſhall goe into eternall life.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>Shall not the righteous have eternall life before the end of the world?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes, in part when they die, for their bodies ſhall be laid in the grave, but their ſoules ſhall goe to heaven, and there en<g ref="char:EOLhyphen"/>ioy eternall life.</p>
+               <p>
+                  <hi>Q. How is that proved?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Firſt, that the bodies of Gods chil<g ref="char:EOLhyphen"/>dren ſhall bée laid in the grave, that is plaine by experience.</p>
+               <p>Secondly, that their ſoules ſhall goe to heaven, and there enioy eternall life, that is plaine out of the words of the Apoſtle, in the later Epiſtle to the <hi>Corinthians,</hi> the fifth Chapter, the beginning of it: <hi>Wee know that if our earthly houſe of this taberna<g ref="char:EOLhyphen"/>cle be deſtroyed, we have a building given of God, an houſe not made with hands, but eter<g ref="char:EOLhyphen"/>nall in the heavens.</hi>
+               </p>
+               <pb n="27" facs="tcp:204367:15"/>
+               <p>
+                  <hi>Q <hi>What ſhall become of the wicked when they die?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Their bodies ſhall bée laid in the grave, but their ſoules ſhall be in a place of torment.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Firſt, for the bodies that is plaine by experience.</p>
+               <p>Secondly, for their ſoules, that may be proved out of the words of our Saviour, in the ſeventh chapter of S. <hi>Matthew</hi> at the <hi>13.</hi> verſe, where he ſaith, <hi>That the broad woy leadeth to deſtruction:</hi> now the wicked walk in that way, and when they die they come to the end of that way, and there<g ref="char:EOLhyphen"/>fore though their bodies lie in the grave, yet their ſoules meet with deſtruction.</p>
+               <p>Both theſe wee may ſee fulfilled upon the wicked rich man in the ſixtéenth of Saint <hi>Luke,</hi> the two and twentieth and thrée and twentieth verſes, where it is ſaid, <hi>The rich man died and was buried,</hi> there is the beſtowing of his body, then it is added, <hi>that he was in hell in torments,</hi> that is to be underſtood of his ſoule.</p>
+               <p>
+                  <hi>Q. <hi>How long ſhall the bodies of the godly and the wicked lie in the grave?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Till the end of the world.</p>
+               <p>
+                  <hi>Q. How is that proved?</hi>
+               </p>
+               <pb n="28" facs="tcp:204367:16"/>
+               <p>
+                  <hi>A.</hi> Out of the fifth Chapter of Saint <hi>John,</hi> the eight and twentieth verſe, where our Saviour ſaith, <hi>That the houre ſhall come; in the which all that are dead in the graves ſhall heare his voyce, and ſhall come forth, both they that have done good, and they that have done evill.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>What ſhall become of them then?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Every body ſhall be joyned to his owne ſoule, and raiſed up againe.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the former words of our Saviour, for he ſaith, <hi>They that are in the grave ſhall heare his voyce,</hi> therefore the ſoules ſhall bée joyned to their bodies, o<g ref="char:EOLhyphen"/>therwiſe they could not bée ſo properly ſaid to heare: and then hée ſaith further, <hi>they ſhall come forth,</hi> that is, they ſhall be raiſed up out of the grave.</p>
+               <p>
+                  <hi>Q. <hi>When the bodies of the godly and the wicked are joyned to their ſoules, what ſhall become of them then?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They ſhall come to Iudgement.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the Epiſtle to the <hi>Romans,</hi> the fouretéenth Chapter, the tenth verſe, <hi>We ſhall all appeare before the judgement ſeat of Chriſt.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>Who ſhall judge them?</hi>
+                  </hi>
+               </p>
+               <pb n="29" facs="tcp:204367:16"/>
+               <p>
+                  <hi>A.</hi> Ieſus Chriſt.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the former words, and ſo all ſo out of the later Epiſtle to the <hi>Corinthi<g ref="char:EOLhyphen"/>ans,</hi> the fifth Chapter, and the tenth verſe: <hi>We must all appeare before the judgement ſeat of Ieſus Chriſt.</hi>
+               </p>
+               <p>
+                  <hi>Q, <hi>How ſhall Chriſt judge us?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> According to our workes.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the former place, where it is ſaid: <hi>We muſt all appeare before the judg<g ref="char:EOLhyphen"/>ment ſeat of Jeſus Chriſt, that every man may receive the things which he hath done in his body, according to that he hath done, whether it be good or evill.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>What is the meaning of that, when you ſay that Jeſus Chriſt ſhall judge us according to our workes?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The meaning is, that they that have done well, ſhall goe into life everla<g ref="char:EOLhyphen"/>ſting, and they that have done evill, ſhall goe to everlaſting condemnation.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Out of the fifth Chapter of S. <hi>Iohns</hi> Goſpel, the nine and twentieth verſe, where our Saviour ſaith thus: <hi>They that have done good ſhall come forth to the reſurre<g ref="char:EOLhyphen"/>ction of life, and they that have done evill to
+<pb n="30" facs="tcp:204367:17"/> the reſurrection of condemnation.</hi>
+               </p>
+               <p>
+                  <hi>Q. <hi>Are we ſaved for our works, or for our faith in Chriſt?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> For our faith.</p>
+               <p>
+                  <hi>Q. <hi>How is that proved?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe it is plainly ſaid in the third Chapter of S. <hi>Iohns</hi> Goſpel, <hi>That he that beleeveth on the Sonne hath everlaſting life:</hi> and the Apoſtle ſaith as plainly, in the Epiſtle to the <hi>Epheſians,</hi> the ſecond Chapter, and the eighth verſe, <hi>By grace ye are ſaved through faith,</hi> and then he addes, <hi>not of your ſelves, not of workes.</hi>
+               </p>
+               <p>
+                  <hi>A. Why then will Jeſus Chriſt judge us according to our workes?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe our workes are more ma<g ref="char:EOLhyphen"/>nifeſt and apparant than our faith.</p>
+               <p>
+                  <hi>Q. <hi>How doe you prove that our works are more manifeſt than our faith?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That is plaine, becauſe our faith is within in the heart, but our works, many of them are outward.</p>
+               <p>
+                  <hi>Q. <hi>How doe you prove that upon this ground, becauſe our works are more ma<g ref="char:EOLhyphen"/>nifeſt than our faith, that therefore Chriſt ſhall judge us according to our works?</hi>
+                  </hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe the day of iudgement is a day, wherein God will not onely be iuſt in rewarding the goodly and puniſhing
+<pb n="31" facs="tcp:204367:17"/> the wicked, but hée will make this his iuſtice to appeare to the whole world, men and Angels, and therefore in the E<g ref="char:EOLhyphen"/>piſte to the <hi>Romans,</hi> the ſecond Chap<g ref="char:EOLhyphen"/>ter, the fifth verſe, the Apoſtle cals this day, <hi>A day of the declara<g ref="char:EOLhyphen"/>tion of juſt judge<g ref="char:EOLhyphen"/>ment of God.</hi>
+               </p>
+            </div>
+            <closer>Soli Deo laus &amp; gloria.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
